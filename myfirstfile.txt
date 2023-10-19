@@ -1,3 +1,5 @@
 This is the first line in myfirstfile.txt
 
 Adding a new feature
+
+Adding a third line for a new feature on the third line.
